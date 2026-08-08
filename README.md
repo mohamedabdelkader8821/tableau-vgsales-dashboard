@@ -3,7 +3,7 @@
 
 ## Preview
 <p align="center">
-  <img src="" alt="Dashboard Demo" width="900">
+  <img src="tableau-vgsales-dashboard/images/dashboard.png" alt="Dashboard Demo" width="900">
 </p>
 
 ## Dashboard Questions
